@@ -14,7 +14,7 @@ A modern, AI-powered healthcare management platform built with React, Vite, Tail
 - **AI Symptom Checker**: Multi-stage clinical symptom evaluation integrated with RAG medical guidelines.
 - **My Profile**: Comprehensive personal, contact, and medical background management.
 
-## Tech Stack
+## Tech Stack for fun
 
 - **Frontend**: React 18, Vite, Tailwind CSS, Radix UI / shadcn
 - **State & Data**: TanStack React Query, Zod, React Hook Form
